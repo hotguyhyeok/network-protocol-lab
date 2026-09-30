@@ -22,7 +22,7 @@ TCP 소켓 프로그래밍의 기본 동작을 직접 구현하며 이해하기 
 ./tcp_server <port>
 
 # client execution
-./tcp_server <server_ip> <port>
+./tcp_client <server_ip> <port>
 ```
 
 ## 검증 및 관찰 항목
